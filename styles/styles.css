@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: white;
+}
+li { 
+    font-size: 20px;
+    font-weight: normal;
+}
+h1 {
+    font-style: oblique;
+}
+.bold {
+    font-weight: bold;
+}
+.justify {
+    text-align: justify;
+}
+.homebg {
+    background-image: url('../images/solar\ top\ view.jpg');
+    background-position: top right;
+    background-repeat: inherit;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: blue;
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    
+}
+.box2 {
+padding: 5px;
+}
+.box3 {
+margin: 2px;
+}
